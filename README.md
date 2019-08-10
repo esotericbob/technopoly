@@ -1,2 +1,2 @@
 # technopoly
-A sci-fi conglomerate themed monopoly style game
+A text based sci-fi conglomerate themed monopoly style game
